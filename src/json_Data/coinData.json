@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "code": 200,
+  "msg": "Successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "pair": "INR",
+      "current_price": 1319114.53,
+      "previous_week" : 1320114.53,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "pair": "USDT",
+      "current_price": 92394.72,
+      "previous_week" : 92494.72,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/ethereum-classic-etc-logo.png?v=023"
+    },
+    {
+      "id": 3,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "pair": "INR",
+      "current_price": 81.20,
+      "previous_week" : 80.89,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=023"
+    },
+    {
+      "id": 4,
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "pair": "INR",
+      "current_price": 21399.50,
+      "previous_week" : 21445.50,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=023"
+
+    },
+    {
+      "id": 5,
+      "name": "Ripple",
+      "symbol": "XRP",
+      "pair": "USDT",
+      "current_price": 29.12,
+      "previous_week" : 30.12,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=023"
+    },
+    {
+      "id": 6,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "pair": "INR",
+      "current_price": 25.08,
+      "previous_week" : 22,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/shiba-inu-shib-logo.png?v=023"
+    },
+    {
+      "id": 7,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "pair": "INR",
+      "current_price": 12,
+      "previous_week" : 10,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=023"
+    },
+    {
+      "id": 8,
+      "name": "PanCake",
+      "symbol": "CAKE",
+      "pair": "INR",
+      "current_price": 101.2,
+      "previous_week" : 120.1,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/pancakeswap-cake-logo.png?v=023"
+    },
+    {
+      "id": 9,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "pair": "INR",
+      "current_price": 96.4,
+      "previous_week" : 101.1,
+      "quantity" : 0,
+      "logo": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=023"
+    }
+  ]
+}
